@@ -1,0 +1,8 @@
+{
+  "nometabela": "customer",
+  "db_origem": "samples.tpch",
+  "db_destino": "db_bronze",
+  "carga": "full",
+  "coluna_data": "c_updated_at",
+  "dias_atras": 2
+}
